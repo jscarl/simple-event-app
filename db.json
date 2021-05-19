@@ -1,0 +1,739 @@
+{
+  "results": [
+    {
+      "id": 39706977,
+      "displayName": "Dua Lipa at M&S Bank Arena (September 10, 2021)",
+      "type": "Concert",
+      "uri": "https://www.songkick.com/concerts/39706977-dua-lipa-at-m-and-s-bank-arena?utm_source=46422&utm_medium=partner",
+      "status": "ok",
+      "popularity": 0.222727,
+      "start": {
+        "date": "2021-09-10",
+        "datetime": "2021-09-10T19:00:00+0100",
+        "time": "19:00:00"
+      },
+      "entryPrice": 0,
+      "flaggedAsEnded": false,
+      "venue": {
+        "id": 1808,
+        "displayName": "M&S Bank Arena",
+        "uri": "https://www.songkick.com/venues/1808-m-and-s-bank-arena?utm_source=46422&utm_medium=partner",
+        "metroArea": {
+          "displayName": "Liverpool",
+          "country": {
+            "displayName": "UK"
+          },
+          "id": 24526,
+          "uri": "https://www.songkick.com/metro-areas/24526-uk-liverpool?utm_source=46422&utm_medium=partner"
+        },
+        "lat": 53.39688,
+        "lng": -2.98576
+      },
+      "location": {
+        "city": "Liverpool, UK",
+        "lat": 53.39688,
+        "lng": -2.98576
+      }
+    },
+    {
+      "id": 39706995,
+      "displayName": "Dua Lipa at The SSE Hydro (September 11, 2021)",
+      "type": "Concert",
+      "uri": "https://www.songkick.com/concerts/39706995-dua-lipa-at-sse-hydro?utm_source=46422&utm_medium=partner",
+      "status": "ok",
+      "popularity": 0.224425,
+      "start": {
+        "date": "2021-09-11",
+        "datetime": "2021-09-11T18:30:00+0100",
+        "time": "18:30:00"
+      },
+      "entryPrice": 0,
+      "flaggedAsEnded": false,
+      "venue": {
+        "id": 2443719,
+        "displayName": "The SSE Hydro",
+        "uri": "https://www.songkick.com/venues/2443719-sse-hydro?utm_source=46422&utm_medium=partner",
+        "metroArea": {
+          "displayName": "Glasgow",
+          "country": {
+            "displayName": "UK"
+          },
+          "id": 24473,
+          "uri": "https://www.songkick.com/metro-areas/24473-uk-glasgow?utm_source=46422&utm_medium=partner"
+        },
+        "lat": 55.86086,
+        "lng": -4.28813
+      },
+      "location": {
+        "city": "Glasgow, UK",
+        "lat": 55.86086,
+        "lng": -4.28813
+      }
+    },
+    {
+      "id": 39706978,
+      "displayName": "Dua Lipa at Utilita Arena Newcastle (September 13, 2021)",
+      "type": "Concert",
+      "uri": "https://www.songkick.com/concerts/39706978-dua-lipa-at-utilita-arena-newcastle?utm_source=46422&utm_medium=partner",
+      "status": "ok",
+      "popularity": 0.237492,
+      "start": {
+        "date": "2021-09-13",
+        "datetime": "2021-09-13T18:00:00+0100",
+        "time": "18:00:00"
+      },
+      "entryPrice": 0,
+      "flaggedAsEnded": false,
+      "venue": {
+        "id": 29167,
+        "displayName": "Utilita Arena Newcastle",
+        "uri": "https://www.songkick.com/venues/29167-utilita-arena-newcastle?utm_source=46422&utm_medium=partner",
+        "metroArea": {
+          "displayName": "Newcastle Upon Tyne",
+          "country": {
+            "displayName": "UK"
+          },
+          "id": 24577,
+          "uri": "https://www.songkick.com/metro-areas/24577-uk-newcastle-upon-tyne?utm_source=46422&utm_medium=partner"
+        },
+        "lat": 54.96307,
+        "lng": -1.62403
+      },
+      "location": {
+        "city": "Newcastle Upon Tyne, UK",
+        "lat": 54.96307,
+        "lng": -1.62403
+      }
+    },
+    {
+      "id": 39706979,
+      "displayName": "Dua Lipa at Motorpoint Arena Cardiff (September 15, 2021)",
+      "type": "Concert",
+      "uri": "https://www.songkick.com/concerts/39706979-dua-lipa-at-motorpoint-arena-cardiff?utm_source=46422&utm_medium=partner",
+      "status": "ok",
+      "popularity": 0.222727,
+      "start": {
+        "date": "2021-09-15",
+        "datetime": "2021-09-15T18:30:00+0100",
+        "time": "18:30:00"
+      },
+      "entryPrice": 0,
+      "flaggedAsEnded": false,
+      "venue": {
+        "id": 17442,
+        "displayName": "Motorpoint Arena Cardiff",
+        "uri": "https://www.songkick.com/venues/17442-motorpoint-arena-cardiff?utm_source=46422&utm_medium=partner",
+        "metroArea": {
+          "displayName": "Cardiff",
+          "country": {
+            "displayName": "UK"
+          },
+          "id": 24583,
+          "uri": "https://www.songkick.com/metro-areas/24583-uk-cardiff?utm_source=46422&utm_medium=partner"
+        },
+        "lat": 51.4788,
+        "lng": -3.17263
+      },
+      "location": {
+        "city": "Cardiff, UK",
+        "lat": 51.4788,
+        "lng": -3.17263
+      }
+    },
+    {
+      "id": 39706980,
+      "displayName": "Dua Lipa at AO Arena (September 16, 2021)",
+      "type": "Concert",
+      "uri": "https://www.songkick.com/concerts/39706980-dua-lipa-at-ao-arena?utm_source=46422&utm_medium=partner",
+      "status": "ok",
+      "popularity": 0.237492,
+      "start": {
+        "date": "2021-09-16",
+        "datetime": "2021-09-16T19:30:00+0100",
+        "time": "19:30:00"
+      },
+      "entryPrice": 0,
+      "flaggedAsEnded": false,
+      "venue": {
+        "id": 17602,
+        "displayName": "AO Arena",
+        "uri": "https://www.songkick.com/venues/17602-ao-arena?utm_source=46422&utm_medium=partner",
+        "metroArea": {
+          "displayName": "Manchester",
+          "country": {
+            "displayName": "UK"
+          },
+          "id": 24475,
+          "uri": "https://www.songkick.com/metro-areas/24475-uk-manchester?utm_source=46422&utm_medium=partner"
+        },
+        "lat": 53.48736,
+        "lng": -2.24305
+      },
+      "location": {
+        "city": "Manchester, UK",
+        "lat": 53.48736,
+        "lng": -2.24305
+      }
+    },
+    {
+      "id": 39706981,
+      "displayName": "Dua Lipa at 3Arena (September 18, 2021)",
+      "type": "Concert",
+      "uri": "https://www.songkick.com/concerts/39706981-dua-lipa-at-3arena?utm_source=46422&utm_medium=partner",
+      "status": "ok",
+      "popularity": 0.222727,
+      "start": {
+        "date": "2021-09-18",
+        "datetime": "2021-09-18T18:30:00+0100",
+        "time": "18:30:00"
+      },
+      "entryPrice": 0,
+      "flaggedAsEnded": false,
+      "venue": {
+        "id": 29945,
+        "displayName": "3Arena",
+        "uri": "https://www.songkick.com/venues/29945-3arena?utm_source=46422&utm_medium=partner",
+        "metroArea": {
+          "displayName": "Dublin",
+          "country": {
+            "displayName": "Ireland"
+          },
+          "id": 29314,
+          "uri": "https://www.songkick.com/metro-areas/29314-ireland-dublin?utm_source=46422&utm_medium=partner"
+        },
+        "lat": 53.34594,
+        "lng": -6.22742
+      },
+      "location": {
+        "city": "Dublin, Ireland",
+        "lat": 53.34594,
+        "lng": -6.22742
+      }
+    },
+    {
+      "id": 39706982,
+      "displayName": "Dua Lipa at 3Arena (September 19, 2021)",
+      "type": "Concert",
+      "uri": "https://www.songkick.com/concerts/39706982-dua-lipa-at-3arena?utm_source=46422&utm_medium=partner",
+      "status": "ok",
+      "popularity": 0.222727,
+      "start": {
+        "date": "2021-09-19",
+        "datetime": "2021-09-19T18:30:00+0100",
+        "time": "18:30:00"
+      },
+      "entryPrice": 0,
+      "flaggedAsEnded": false,
+      "venue": {
+        "id": 29945,
+        "displayName": "3Arena",
+        "uri": "https://www.songkick.com/venues/29945-3arena?utm_source=46422&utm_medium=partner",
+        "metroArea": {
+          "displayName": "Dublin",
+          "country": {
+            "displayName": "Ireland"
+          },
+          "id": 29314,
+          "uri": "https://www.songkick.com/metro-areas/29314-ireland-dublin?utm_source=46422&utm_medium=partner"
+        },
+        "lat": 53.34594,
+        "lng": -6.22742
+      },
+      "location": {
+        "city": "Dublin, Ireland",
+        "lat": 53.34594,
+        "lng": -6.22742
+      }
+    },
+    {
+      "id": 39706983,
+      "displayName": "Dua Lipa at First Direct Arena (September 21, 2021)",
+      "type": "Concert",
+      "uri": "https://www.songkick.com/concerts/39706983-dua-lipa-at-first-direct-arena?utm_source=46422&utm_medium=partner",
+      "status": "ok",
+      "popularity": 0.222727,
+      "start": {
+        "date": "2021-09-21",
+        "datetime": "2021-09-21T18:00:00+0100",
+        "time": "18:00:00"
+      },
+      "entryPrice": 0,
+      "flaggedAsEnded": false,
+      "venue": {
+        "id": 2298254,
+        "displayName": "First Direct Arena",
+        "uri": "https://www.songkick.com/venues/2298254-first-direct-arena?utm_source=46422&utm_medium=partner",
+        "metroArea": {
+          "displayName": "Leeds",
+          "country": {
+            "displayName": "UK"
+          },
+          "id": 24495,
+          "uri": "https://www.songkick.com/metro-areas/24495-uk-leeds?utm_source=46422&utm_medium=partner"
+        },
+        "lat": 53.80368,
+        "lng": -1.54384
+      },
+      "location": {
+        "city": "Leeds, UK",
+        "lat": 53.80368,
+        "lng": -1.54384
+      }
+    },
+    {
+      "id": 39706984,
+      "displayName": "Dua Lipa at The O2 (September 24, 2021)",
+      "type": "Concert",
+      "uri": "https://www.songkick.com/concerts/39706984-dua-lipa-at-o2?utm_source=46422&utm_medium=partner",
+      "status": "ok",
+      "popularity": 0.222727,
+      "start": {
+        "date": "2021-09-24",
+        "datetime": "2021-09-24T18:30:00+0100",
+        "time": "18:30:00"
+      },
+      "entryPrice": 0,
+      "flaggedAsEnded": false,
+      "venue": {
+        "id": 17532,
+        "displayName": "The O2",
+        "uri": "https://www.songkick.com/venues/17532-o2?utm_source=46422&utm_medium=partner",
+        "metroArea": {
+          "displayName": "London",
+          "country": {
+            "displayName": "UK"
+          },
+          "id": 24426,
+          "uri": "https://www.songkick.com/metro-areas/24426-uk-london?utm_source=46422&utm_medium=partner"
+        },
+        "lat": 51.50094,
+        "lng": 0.00536
+      },
+      "location": {
+        "city": "London, UK",
+        "lat": 51.50094,
+        "lng": 0.00536
+      }
+    },
+    {
+      "id": 39706985,
+      "displayName": "Dua Lipa at The O2 (September 25, 2021)",
+      "type": "Concert",
+      "uri": "https://www.songkick.com/concerts/39706985-dua-lipa-at-o2?utm_source=46422&utm_medium=partner",
+      "status": "ok",
+      "popularity": 0.222727,
+      "start": {
+        "date": "2021-09-25",
+        "datetime": "2021-09-25T18:30:00+0100",
+        "time": "18:30:00"
+      },
+      "entryPrice": 0,
+      "flaggedAsEnded": false,
+      "venue": {
+        "id": 17532,
+        "displayName": "The O2",
+        "uri": "https://www.songkick.com/venues/17532-o2?utm_source=46422&utm_medium=partner",
+        "metroArea": {
+          "displayName": "London",
+          "country": {
+            "displayName": "UK"
+          },
+          "id": 24426,
+          "uri": "https://www.songkick.com/metro-areas/24426-uk-london?utm_source=46422&utm_medium=partner"
+        },
+        "lat": 51.50094,
+        "lng": 0.00536
+      },
+      "location": {
+        "city": "London, UK",
+        "lat": 51.50094,
+        "lng": 0.00536
+      }
+    },
+    {
+      "id": 39706986,
+      "displayName": "Dua Lipa at Motorpoint Arena Nottingham (September 27, 2021)",
+      "type": "Concert",
+      "uri": "https://www.songkick.com/concerts/39706986-dua-lipa-at-motorpoint-arena-nottingham?utm_source=46422&utm_medium=partner",
+      "status": "ok",
+      "popularity": 0.222727,
+      "start": {
+        "date": "2021-09-27",
+        "datetime": "2021-09-27T19:00:00+0100",
+        "time": "19:00:00"
+      },
+      "entryPrice": 0,
+      "flaggedAsEnded": false,
+      "venue": {
+        "id": 16756,
+        "displayName": "Motorpoint Arena Nottingham",
+        "uri": "https://www.songkick.com/venues/16756-motorpoint-arena-nottingham?utm_source=46422&utm_medium=partner",
+        "metroArea": {
+          "displayName": "Nottingham",
+          "country": {
+            "displayName": "UK"
+          },
+          "id": 24549,
+          "uri": "https://www.songkick.com/metro-areas/24549-uk-nottingham?utm_source=46422&utm_medium=partner"
+        },
+        "lat": 52.95264,
+        "lng": -1.13928
+      },
+      "location": {
+        "city": "Nottingham, UK",
+        "lat": 52.95264,
+        "lng": -1.13928
+      }
+    },
+    {
+      "id": 39706987,
+      "displayName": "Dua Lipa at Utilita Arena Birmingham (September 28, 2021)",
+      "type": "Concert",
+      "uri": "https://www.songkick.com/concerts/39706987-dua-lipa-at-utilita-arena-birmingham?utm_source=46422&utm_medium=partner",
+      "status": "ok",
+      "popularity": 0.222727,
+      "start": {
+        "date": "2021-09-28",
+        "datetime": "2021-09-28T18:30:00+0100",
+        "time": "18:30:00"
+      },
+      "entryPrice": 0,
+      "flaggedAsEnded": false,
+      "venue": {
+        "id": 17383,
+        "displayName": "Utilita Arena Birmingham",
+        "uri": "https://www.songkick.com/venues/17383-utilita-arena-birmingham?utm_source=46422&utm_medium=partner",
+        "metroArea": {
+          "displayName": "Birmingham",
+          "country": {
+            "displayName": "UK"
+          },
+          "id": 24542,
+          "uri": "https://www.songkick.com/metro-areas/24542-uk-birmingham?utm_source=46422&utm_medium=partner"
+        },
+        "lat": 52.48041,
+        "lng": -1.91408
+      },
+      "location": {
+        "city": "Birmingham, UK",
+        "lat": 52.48041,
+        "lng": -1.91408
+      }
+    },
+    {
+      "id": 39706996,
+      "displayName": "Dua Lipa at AccorHotels Arena (September 30, 2021)",
+      "type": "Concert",
+      "uri": "https://www.songkick.com/concerts/39706996-dua-lipa-at-accorhotels-arena?utm_source=46422&utm_medium=partner",
+      "status": "ok",
+      "popularity": 0.222727,
+      "start": {
+        "date": "2021-09-30",
+        "datetime": "2021-09-30T20:00:00+0200",
+        "time": "20:00:00"
+      },
+      "entryPrice": 0,
+      "flaggedAsEnded": false,
+      "venue": {
+        "id": 3120894,
+        "displayName": "AccorHotels Arena",
+        "uri": "https://www.songkick.com/venues/3120894-accorhotels-arena?utm_source=46422&utm_medium=partner",
+        "metroArea": {
+          "displayName": "Paris",
+          "country": {
+            "displayName": "France"
+          },
+          "id": 28909,
+          "uri": "https://www.songkick.com/metro-areas/28909-france-paris?utm_source=46422&utm_medium=partner"
+        },
+        "lat": 48.83861,
+        "lng": 2.37862
+      },
+      "location": {
+        "city": "Paris, France",
+        "lat": 48.83861,
+        "lng": 2.37862
+      }
+    },
+    {
+      "id": 39706997,
+      "displayName": "Dua Lipa at Sportpaleis (October 1, 2021)",
+      "type": "Concert",
+      "uri": "https://www.songkick.com/concerts/39706997-dua-lipa-at-sportpaleis?utm_source=46422&utm_medium=partner",
+      "status": "ok",
+      "popularity": 0.227775,
+      "start": {
+        "date": "2021-10-01",
+        "datetime": "2021-10-01T18:30:00+0200",
+        "time": "18:30:00"
+      },
+      "entryPrice": 0,
+      "flaggedAsEnded": false,
+      "venue": {
+        "id": 62540,
+        "displayName": "Sportpaleis",
+        "uri": "https://www.songkick.com/venues/62540-sportpaleis?utm_source=46422&utm_medium=partner",
+        "metroArea": {
+          "displayName": "Antwerp",
+          "country": {
+            "displayName": "Belgium"
+          },
+          "id": 26852,
+          "uri": "https://www.songkick.com/metro-areas/26852-belgium-antwerp?utm_source=46422&utm_medium=partner"
+        },
+        "lat": 51.2303,
+        "lng": 4.44181
+      },
+      "location": {
+        "city": "Merksem, Belgium",
+        "lat": 51.2303,
+        "lng": 4.44181
+      }
+    },
+    {
+      "id": 39706988,
+      "displayName": "Dua Lipa at Barclaycard Arena (October 3, 2021)",
+      "type": "Concert",
+      "uri": "https://www.songkick.com/concerts/39706988-dua-lipa-at-barclaycard-arena?utm_source=46422&utm_medium=partner",
+      "status": "ok",
+      "popularity": 0.222727,
+      "start": {
+        "date": "2021-10-03",
+        "datetime": "2021-10-03T20:00:00+0200",
+        "time": "20:00:00"
+      },
+      "entryPrice": 0,
+      "flaggedAsEnded": false,
+      "venue": {
+        "id": 3025064,
+        "displayName": "Barclaycard Arena",
+        "uri": "https://www.songkick.com/venues/3025064-barclaycard-arena?utm_source=46422&utm_medium=partner",
+        "metroArea": {
+          "displayName": "Hamburg",
+          "country": {
+            "displayName": "Germany"
+          },
+          "id": 28498,
+          "uri": "https://www.songkick.com/metro-areas/28498-germany-hamburg?utm_source=46422&utm_medium=partner"
+        },
+        "lat": 53.58984,
+        "lng": 9.89877
+      },
+      "location": {
+        "city": "Hamburg, Germany",
+        "lat": 53.58984,
+        "lng": 9.89877
+      }
+    },
+    {
+      "id": 39706989,
+      "displayName": "Dua Lipa at Ziggo Dome (October 5, 2021)",
+      "type": "Concert",
+      "uri": "https://www.songkick.com/concerts/39706989-dua-lipa-at-ziggo-dome?utm_source=46422&utm_medium=partner",
+      "status": "ok",
+      "popularity": 0.222727,
+      "start": {
+        "date": "2021-10-05",
+        "datetime": "2021-10-05T20:00:00+0200",
+        "time": "20:00:00"
+      },
+      "entryPrice": 0,
+      "flaggedAsEnded": false,
+      "venue": {
+        "id": 1603193,
+        "displayName": "Ziggo Dome",
+        "uri": "https://www.songkick.com/venues/1603193-ziggo-dome?utm_source=46422&utm_medium=partner",
+        "metroArea": {
+          "displayName": "Amsterdam",
+          "country": {
+            "displayName": "Netherlands"
+          },
+          "id": 31366,
+          "uri": "https://www.songkick.com/metro-areas/31366-netherlands-amsterdam?utm_source=46422&utm_medium=partner"
+        },
+        "lat": 52.31345,
+        "lng": 4.93719
+      },
+      "location": {
+        "city": "Amsterdam, Netherlands",
+        "lat": 52.31345,
+        "lng": 4.93719
+      }
+    },
+    {
+      "id": 39706990,
+      "displayName": "Dua Lipa at LANXESS Arena (October 7, 2021)",
+      "type": "Concert",
+      "uri": "https://www.songkick.com/concerts/39706990-dua-lipa-at-lanxess-arena?utm_source=46422&utm_medium=partner",
+      "status": "ok",
+      "popularity": 0.227971,
+      "start": {
+        "date": "2021-10-07",
+        "datetime": "2021-10-07T20:00:00+0200",
+        "time": "20:00:00"
+      },
+      "entryPrice": 0,
+      "flaggedAsEnded": false,
+      "venue": {
+        "id": 31006,
+        "displayName": "LANXESS Arena",
+        "uri": "https://www.songkick.com/venues/31006-lanxess-arena?utm_source=46422&utm_medium=partner",
+        "metroArea": {
+          "displayName": "Cologne",
+          "country": {
+            "displayName": "Germany"
+          },
+          "id": 28456,
+          "uri": "https://www.songkick.com/metro-areas/28456-germany-cologne?utm_source=46422&utm_medium=partner"
+        },
+        "lat": 50.93896,
+        "lng": 6.98413
+      },
+      "location": {
+        "city": "Cologne, Germany",
+        "lat": 50.93896,
+        "lng": 6.98413
+      }
+    },
+    {
+      "id": 39706991,
+      "displayName": "Dua Lipa at Mercedes-Benz Arena (October 9, 2021)",
+      "type": "Concert",
+      "uri": "https://www.songkick.com/concerts/39706991-dua-lipa-at-mercedesbenz-arena?utm_source=46422&utm_medium=partner",
+      "status": "ok",
+      "popularity": 0.222727,
+      "start": {
+        "date": "2021-10-09",
+        "datetime": "2021-10-09T20:00:00+0200",
+        "time": "20:00:00"
+      },
+      "entryPrice": 0,
+      "flaggedAsEnded": false,
+      "venue": {
+        "id": 31898,
+        "displayName": "Mercedes-Benz Arena",
+        "uri": "https://www.songkick.com/venues/31898-mercedesbenz-arena?utm_source=46422&utm_medium=partner",
+        "metroArea": {
+          "displayName": "Berlin",
+          "country": {
+            "displayName": "Germany"
+          },
+          "id": 28443,
+          "uri": "https://www.songkick.com/metro-areas/28443-germany-berlin?utm_source=46422&utm_medium=partner"
+        },
+        "lat": 52.50596,
+        "lng": 13.43874
+      },
+      "location": {
+        "city": "Berlin, Germany",
+        "lat": 52.50596,
+        "lng": 13.43874
+      }
+    },
+    {
+      "id": 39706992,
+      "displayName": "Dua Lipa at Mediolanum Forum (October 12, 2021)",
+      "type": "Concert",
+      "uri": "https://www.songkick.com/concerts/39706992-dua-lipa-at-mediolanum-forum?utm_source=46422&utm_medium=partner",
+      "status": "ok",
+      "popularity": 0.23229,
+      "start": {
+        "date": "2021-10-12",
+        "datetime": "2021-10-12T21:00:00+0200",
+        "time": "21:00:00"
+      },
+      "entryPrice": 0,
+      "flaggedAsEnded": false,
+      "venue": {
+        "id": 48459,
+        "displayName": "Mediolanum Forum",
+        "uri": "https://www.songkick.com/venues/48459-mediolanum-forum?utm_source=46422&utm_medium=partner",
+        "metroArea": {
+          "displayName": "Milan",
+          "country": {
+            "displayName": "Italy"
+          },
+          "id": 30338,
+          "uri": "https://www.songkick.com/metro-areas/30338-italy-milan?utm_source=46422&utm_medium=partner"
+        },
+        "lat": 45.40164,
+        "lng": 9.14205
+      },
+      "location": {
+        "city": "Assago, Italy",
+        "lat": 45.40164,
+        "lng": 9.14205
+      }
+    },
+    {
+      "id": 39706993,
+      "displayName": "Dua Lipa at Palau Sant Jordi (October 15, 2021)",
+      "type": "Concert",
+      "uri": "https://www.songkick.com/concerts/39706993-dua-lipa-at-palau-sant-jordi?utm_source=46422&utm_medium=partner",
+      "status": "ok",
+      "popularity": 0.222727,
+      "start": {
+        "date": "2021-10-15",
+        "datetime": "2021-10-15T21:00:00+0200",
+        "time": "21:00:00"
+      },
+      "entryPrice": 0,
+      "flaggedAsEnded": false,
+      "venue": {
+        "id": 34191,
+        "displayName": "Palau Sant Jordi",
+        "uri": "https://www.songkick.com/venues/34191-palau-sant-jordi?utm_source=46422&utm_medium=partner",
+        "metroArea": {
+          "displayName": "Barcelona",
+          "country": {
+            "displayName": "Spain"
+          },
+          "id": 28714,
+          "uri": "https://www.songkick.com/metro-areas/28714-spain-barcelona?utm_source=46422&utm_medium=partner"
+        },
+        "lat": 41.36241,
+        "lng": 2.15566
+      },
+      "location": {
+        "city": "Barcelona, Spain",
+        "lat": 41.36241,
+        "lng": 2.15566
+      }
+    },
+    {
+      "id": 39706998,
+      "displayName": "Dua Lipa at WiZink Center (October 17, 2021)",
+      "type": "Concert",
+      "uri": "https://www.songkick.com/concerts/39706998-dua-lipa-at-wizink-center?utm_source=46422&utm_medium=partner",
+      "status": "ok",
+      "popularity": 0.222727,
+      "start": {
+        "date": "2021-10-17",
+        "datetime": "2021-10-17T21:00:00+0200",
+        "time": "21:00:00"
+      },
+      "entryPrice": 0,
+      "flaggedAsEnded": false,
+      "venue": {
+        "id": 125494,
+        "displayName": "WiZink Center",
+        "uri": "https://www.songkick.com/venues/125494-wizink-center?utm_source=46422&utm_medium=partner",
+        "metroArea": {
+          "displayName": "Madrid",
+          "country": {
+            "displayName": "Spain"
+          },
+          "id": 28755,
+          "uri": "https://www.songkick.com/metro-areas/28755-spain-madrid?utm_source=46422&utm_medium=partner"
+        },
+        "lat": 40.42393,
+        "lng": -3.675
+      },
+      "location": {
+        "city": "Madrid, Spain",
+        "lat": 40.42393,
+        "lng": -3.675
+      }
+    }
+  ]
+}
